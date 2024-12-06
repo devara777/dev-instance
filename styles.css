@@ -1,0 +1,52 @@
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+.clock-container {
+    margin-top: 2rem;
+}
+
+.clock {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: #fff;
+    border: 2px solid #333;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.toggle-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.toggle-button:hover {
+    background-color: #555;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
